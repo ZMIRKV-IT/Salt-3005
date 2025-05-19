@@ -1,4 +1,4 @@
-#*.rpm -delta
-#*.deb -delta
-* -delta
+*.rpm -delta
+*.deb -delta
+#* -delta
 
